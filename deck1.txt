@@ -1,0 +1,3 @@
+3 zombie
+4 island
+1 swamp
